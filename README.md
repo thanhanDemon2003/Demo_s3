@@ -320,4 +320,4 @@ For support:
 - [Swagger/OpenAPI Documentation](https://swagger.io/docs/)
 
 ## Contact
-For inquiries [contact information](mailto:demon@annt.tech)
+For inquiries [Mail](mailto:demon@annt.tech)
